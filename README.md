@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a computer engineer and tech enthusiast who is interested in 🖥️ computer organization and 🤖 system design.
+I’m a new graduated computer engineer and tech enthusiast who is interested in 🖥️ computer organization and 🤖 system design.
 
 On GitHub, I share my side projects and learnings to help others. While you'll find a selection of my work here, most of my academic and professional projects remain private as I regularly revise and organize them before sharing.
 
