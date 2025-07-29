@@ -1,19 +1,17 @@
 ## Hi there 👋
 
-I’m a new graduated computer engineer and tech enthusiast who is interested in 🖥️ computer organization and 🤖 system design.
+🎓 I'm a recent Computer Engineering graduate with a strong passion for systems engineering and hardware-software integration. I enjoy exploring the layers between hardware and software through hands-on projects.
 
-On GitHub, I share my side projects and learnings to help others. While you'll find a selection of my work here, most of my academic and professional projects remain private as I regularly revise and organize them before sharing.
+🚀 On GitHub, I share personal projects, experiments, and notes that reflect my learning journey. While some academic and professional works remain private for now, I’m gradually refining and publishing them here.
 
-### What I'm Currently Up To:  
-  
-- 🛠️ Refining and sharing my former works.
-- 📘 Building and documenting small projects that fascinate me.
+### 🔍 Currently Working On
+- Refactoring and publishing selected academic and personal projects
+- Developing small-scale systems that explore low-level concepts and system behavior
 
-### Technologies & Tools:
-  
-- **Main Focus:** C/C++, Assembly, Computer Organization and Computer Graphics 
-- **Other Languages:** Python, Java, JavaScript
-- **Most Used Tools and Environment:** Atom and VSCode, gdb, Ubuntu/Linux
+### 🧰 Technologies & Tools
+- Primary Interests: C/C++, Assembly, System Design, Computer Graphics
+- Other Languages: Python, Java, JavaScript
+- Tools & Environments: VSCode & Atom, gdb, Ubuntu/Linux
 
 
 **Main Languages, frameworks and tools:**  
